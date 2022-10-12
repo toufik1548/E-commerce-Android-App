@@ -6,7 +6,11 @@
 3. Name: Mumtahina Parvin 蒙律
     ID : 20193290766
 
-   
+# Used Tools:
+Android SDK Build-Tools 33
+Android Emulator Hypervisor Driver for AMD Processors 1.8.0
+Android SDK Platform-Tools 33.0.3
+
 # Used Libraries
 
 Material Search Bar:
